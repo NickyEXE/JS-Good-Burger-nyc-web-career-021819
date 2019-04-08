@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,12 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "Mondo Burger",
+      "description": "Huge burger",
+      "image": "https://www.philly.com/resizer/69VrOMLzfr6n1dwYv3_nchuaIag=/1400x932/smart/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/NHNH2EHT35GN3EJSHZSAABZWAE.jpg",
+      "id": 14
     }
   ]
 }
